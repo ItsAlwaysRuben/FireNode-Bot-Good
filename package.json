@@ -1,0 +1,15 @@
+{
+  "name": "firenode-1",
+  "version": "1.0.0",
+  "description": "firenode bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FireNode",
+  "license": "ISC"
+}
